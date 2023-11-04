@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Eu sou o Guilherme Maciel</h1>
-<h3 align="center">Entusiasta de técnologias e arquiteto e desenvolvedor backend.</h3>
+<h3 align="center">Entusiasta de técnologias, arquiteto e desenvolvedor backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmsdev04&label=Profile%20views&color=0e75b6&style=flat" alt="gmsdev04" /> </p>
 
